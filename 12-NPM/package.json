@@ -1,0 +1,18 @@
+{
+  "name": "12-npm",
+  "version": "1.0.0",
+  "description": "This is the NPM practice package, we will create multiple examples to learn NPM here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nps"
+  ],
+  "author": "Gaurav Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

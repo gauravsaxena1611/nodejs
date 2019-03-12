@@ -1,0 +1,5 @@
+This is a sample input file.
+
+We will try to read this file both synchronously and asynchronously.
+
+These contents will get recorded in some other destination.
